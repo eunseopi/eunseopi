@@ -22,5 +22,9 @@
 
 ## ✍️ Studying...
 
-![TypeScript](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=typescript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-61DAFB?style=flat-square&logo=typescript&logoColor=black)
 </div>
+
+## Education
+ - 2019.03 ~ | 삼육대학교 컴퓨터공학부 전공
+ - 2024.01 ~ 2024.09 | KDT 네트워크캠퍼스(자바 스프링 리액트로 완성하는 클라우드 활용 풀스택 개발)
