@@ -1,5 +1,8 @@
+
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mastser1)](https://solved.ac/mastser1)
+  <a href="https://solved.ac/mastser1">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=mastser1" alt="Solved.ac Profile"/>
+  </a>
 </div>
 
 <div align="center">
