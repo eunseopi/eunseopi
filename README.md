@@ -1,5 +1,6 @@
-
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mastser1)](https://solved.ac/mastser1)
+</div>
 
 <div align="center">
  
