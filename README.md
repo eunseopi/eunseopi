@@ -1,6 +1,8 @@
-<div align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mastser1)](https://solved.ac/mastser1)
 
+<div align="center">
+ 
 # Hello, I'm EunSeop 👋
 
 개발자의 꿈을 꾸는 코린이 🧑‍💻
