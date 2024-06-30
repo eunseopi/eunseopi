@@ -1,5 +1,5 @@
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mastser1)](https://solved.ac/mastser1)
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mastser1)](https://solved.ac/mastser1)
 
 # Hello, I'm EunSeop 👋
 
