@@ -39,6 +39,11 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
+<h2 align="center">개인 블로그</h2>
+<p align="center">
+  <a href="https://codingstory1.tistory.com/">https://codingstory1.tistory.com/</a>
+</p>
+  
 <h2 align="center">📚 Education</h2>
 
 <div align="center">
