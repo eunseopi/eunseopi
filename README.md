@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunseopi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hit counter"/>
+</div>
+<div align="center">                
   <a href="https://solved.ac/mastser1">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=mastser1" alt="Solved.ac Profile"/>
     <img src="https://github-readme-stats.vercel.app/api?username=eunseopi&show_icons=true&theme=radical" alt="GitHub Stats"/>
