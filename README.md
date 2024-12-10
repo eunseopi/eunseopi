@@ -12,7 +12,7 @@
 
 <p align="center">
   <strong>개발자의 꿈을 꾸는 코린이 🧑‍💻</strong><br>
-  <em>근황: 프로젝트 진행중</em>
+  <em>근황: 취뽀 성공 !</em>
 </p>
 
 <p align="center">
