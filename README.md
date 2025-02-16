@@ -12,7 +12,6 @@
 
 <p align="center">
   <strong>개발자의 꿈을 꾸는 코린이 🧑‍💻</strong><br>
-  <em>근황: 취뽀 성공 !</em>
 </p>
 
 <p align="center">
