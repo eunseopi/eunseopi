@@ -53,7 +53,7 @@
 </p>
 <h2 align="center">개인 블로그</h2>
 <p align="center">
-  <a href="https://codingstory1.tistory.com/">https://codingstory1.tistory.com/</a>
+  블로그 이전중...
 </p>
   
 <h2 align="center">📚 Education</h2>
