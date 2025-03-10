@@ -25,22 +25,32 @@
 
 <h2 align="center">🛠 Tech Stacks</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+<div align="center">
+  <p align="center">
+    <p align="center"><strong>FrontEnd</strong><p>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  </p>
+  <p align="center">
+      <p align="center"><strong>BackEnd</strong><p>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </p>
+</div>
 
 <h2 align="center">✍️ Studying...</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=nextjs&logoColor=white" alt="NextJS"/>
+  
 </p>
-
 <h2 align="center">개인 블로그</h2>
 <p align="center">
   <a href="https://codingstory1.tistory.com/">https://codingstory1.tistory.com/</a>
@@ -51,7 +61,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><strong>2019.03 ~ 현재</strong></td>
+      <td><strong>2019.03 ~ 2025.02 (졸업)</strong></td>
       <td>삼육대학교 컴퓨터공학부 전공</td>
     </tr>
     <tr>
@@ -63,7 +73,7 @@
 
 <h2 align="center">🚀 프로젝트</h2>
 
-<h3>최근 프로젝트 (지난 3개월)</h3>
+<h3>최근 프로젝트</h3>
 
 - [OSP-smartcloset/Frontend-repo](https://github.com/OSP-smartcloset/Frontend-repo) - TypeScript
 - [KDT-Club/frontend](https://github.com/KDT-Club/frontend) - JavaScript
