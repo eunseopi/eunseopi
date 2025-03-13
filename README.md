@@ -53,7 +53,7 @@
 </p>
 <h2 align="center">개인 블로그</h2>
 <p align="center">
-  블로그 이전중...
+  블로그 이전중... -> https://velog.io/@cold_mental/posts
 </p>
   
 <h2 align="center">📚 Education</h2>
