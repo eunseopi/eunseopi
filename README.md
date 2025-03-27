@@ -71,6 +71,11 @@
   </table>
 </div>
 
+<h2 align="center">개인 공부</h2>
+
+- [Algorithm](https://github.com/eunseopi/Coding_Test)
+- [CS지식](https://github.com/eunseopi/FE_CS)
+
 <h2 align="center">🚀 프로젝트</h2>
 
 <h3>현재 진행중인 프로젝트</h3>
