@@ -75,15 +75,15 @@
 
 <h3>현재 진행중인 프로젝트</h3>
 
-- [[KDT-Club/frontend](https://github.com/KDT-Club/frontend)](https://github.com/PlanItproject/FrontEnd) - JavaScript
-- [[botox_front2](https://github.com/mastser1/botox_front2)](https://github.com/orgs/Seeds-kr/teams/lifemaster/repositories) - Flutter
+- [PlanIt](https://github.com/PlanItproject/FrontEnd)- React
+- [LifeMaster](https://github.com/orgs/Seeds-kr/teams/lifemaster/repositories) - Flutter
 
 <h3>최근 프로젝트</h3>
 
 - [OSP-smartcloset/Frontend-repo](https://github.com/OSP-smartcloset/Frontend-repo) - TypeScript
-- [KDT-Club/frontend](https://github.com/KDT-Club/frontend) - JavaScript
-- [botox_front2](https://github.com/mastser1/botox_front2) - JavaScript
-- [AI_literacy](https://github.com/mastser1/AI_literacy) - JavaScript
+- [KDT-Club/frontend](https://github.com/KDT-Club/frontend) - React
+- [botox_front2](https://github.com/mastser1/botox_front2) - React
+- [AI_literacy](https://github.com/mastser1/AI_literacy) - React
 
 <h3>과거 프로젝트 (6개월 이상)</h3>
 
