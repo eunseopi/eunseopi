@@ -83,7 +83,7 @@
 - [OSP-smartcloset/Frontend-repo](https://github.com/OSP-smartcloset/Frontend-repo) - TypeScript
 - [KDT-Club/frontend](https://github.com/KDT-Club/frontend) - React
 - [botox_front2](https://github.com/eunseopi/botox_front2) - React
-- [AI_literacy](https://github.com/mastser1/AI_literacy) - React
+- [AI_literacy](https://github.com/eunseopi/AI_literacy) - React
 
 <h3>과거 프로젝트 (6개월 이상)</h3>
 
