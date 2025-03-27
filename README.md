@@ -73,6 +73,11 @@
 
 <h2 align="center">🚀 프로젝트</h2>
 
+<h3>현재 진행중인 프로젝트</h3>
+
+- [[KDT-Club/frontend](https://github.com/KDT-Club/frontend)](https://github.com/PlanItproject/FrontEnd) - JavaScript
+- [[botox_front2](https://github.com/mastser1/botox_front2)](https://github.com/orgs/Seeds-kr/teams/lifemaster/repositories) - Flutter
+
 <h3>최근 프로젝트</h3>
 
 - [OSP-smartcloset/Frontend-repo](https://github.com/OSP-smartcloset/Frontend-repo) - TypeScript
